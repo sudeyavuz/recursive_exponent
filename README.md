@@ -1,0 +1,1 @@
+# üslü sayı hesaplama
